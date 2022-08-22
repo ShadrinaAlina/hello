@@ -4,7 +4,16 @@
 we just commit html to train in our git accaunt.
 
 
+<<<<<<< HEAD
 
 adafs
 sdffsg
 ddsg
+=======
+dwa
+dd
+d
+d
+d
+d
+>>>>>>> master
